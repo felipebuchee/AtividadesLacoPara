@@ -2,17 +2,20 @@ programa
 {
 	
 inteiro base
-inteiro expoente
+     inteiro expoente
 
 	funcao inicio()
 	{
+
+		
 		escreva("Informe a base: ")
 		leia(base)
 
 		escreva("Informe o expoente: ")
 		leia(expoente)
           potencia()
-		escreva(base)
+          escreva("\n")
+		escreva("Resultado: ",base)
 	}
           funcao potencia(){
           
