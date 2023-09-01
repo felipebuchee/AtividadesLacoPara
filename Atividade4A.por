@@ -17,7 +17,7 @@ programa
 		para(inteiro i=1; i < expoente; i++){
 		base = base * base
 		
-          escreva("\n")
+                escreva("\n")
 		escreva("Resultado: ",base)
 		}
 	}
